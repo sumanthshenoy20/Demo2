@@ -1,0 +1,6 @@
+class Demo{
+   public static void main(Sring[]args){
+     System.out.println("hello");
+      System.out.println("java and sql");
+   }
+}
